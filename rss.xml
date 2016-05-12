@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Vertical Media]]></title>
         <description><![CDATA[Vertical Media]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vertical-media/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 07:42:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 07:42:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vertical-media/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi an welcome to the Vertical Site website !</p>]]></description>
-            <link>undefinedhi-an-welcome-to-the-vertical-site-website/index.html</link>
+            <link>https://thegrid.ai/vertical-media/hi-an-welcome-to-the-vertical-site-website/index.html</link>
             <guid isPermaLink="false">bf658381-3cd8-4015-8753-240c14bc0b4a</guid>
-            <pubDate>Thu, 12 May 2016 07:42:14 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 07:42:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
