@@ -1,0 +1,28 @@
+name: Vertical Media
+favicon: null
+layout_spectrum: 0.65600422071293
+typography_spectrum: 0.7642572906333953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6387897478416562
+  lightness: 0.3899776057805866
+  saturation: 0.3145056995563209
+  rhythmicContrast: 0.522491121198982
+purpose: []
